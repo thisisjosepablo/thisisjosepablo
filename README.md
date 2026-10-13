@@ -19,11 +19,10 @@ Máster en Health Data Science (URV) · Ingeniero Informático
 
 Vengo de **Santisteban del Puerto**, un pueblo de Jaén de raíces íberas. De pequeño quería ser forense; los ordenadores me llevaron a la informática y, con los años, la medicina ha vuelto a cruzarse en mi camino, esta vez a través de los datos.
 
-Hoy investigo en **modelos de IA confiable** para impulsar un uso responsable de la inteligencia artificial en salud, y antes apliqué *deep learning* al análisis de imágenes de pacientes ostomizados en el proyecto [EPPIA](https://proyectoeppia.com).
 
 ### 🌱 Ahora mismo
 
-- 🔬 **Investigador en la Universidad de Jaén**: modelos de IA confiable para una IA responsable en salud.
+- 🔬 **Investigador en la Universidad de Jaén**: modelos de IA en el ámbito de la salud.
 - 🎓 **Máster en Health Data Science** en la Universitat Rovira i Virgili.
 - 🏃 **[Radar de Carreras](https://www.radardecarreras.es)**: mi proyecto propio, un sistema de recomendación de carreras populares y trail en Andalucía que publica 3 carreras al día en una comunidad de WhatsApp.
 - 📄 **Papers2Code**: implementar desde cero artículos de investigación para entenderlos de verdad.
