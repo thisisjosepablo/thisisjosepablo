@@ -17,7 +17,7 @@ Máster en Health Data Science (URV) · Ingeniero Informático
 
 ---
 
-Vengo de **Santisteban del Puerto**, un pueblo de Jaén de raíces íberas. De pequeño quería ser forense; los ordenadores me llevaron a la informática y, con los años, la medicina ha vuelto a cruzarse en mi camino, esta vez a través de los datos.
+
 
 
 ### 🌱 Ahora mismo
